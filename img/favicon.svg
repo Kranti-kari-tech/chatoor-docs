@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Chatoor">
+  <!-- The Chatoor trishul, with heavier lines so it stays clear at 16 px (brand/README.md, The mark) -->
+  <defs><clipPath id="chatoor-fav"><rect width="64" height="64" rx="14"/></clipPath></defs>
+  <rect width="64" height="64" rx="14" fill="#6b2fe0"/>
+  <g clip-path="url(#chatoor-fav)"><g transform="rotate(-38 31 33)">
+    <line x1="4" y1="33" x2="44" y2="33" stroke="#fdfdfe" stroke-width="6.5" stroke-linecap="round"/>
+    <path d="M39.4 20.5 A15 15 0 1 0 39.4 45.5" fill="none" stroke="#fdfdfe" stroke-width="7.5"/>
+    <path d="M36.5 15.5 L51 19.5 L39 25 Z" fill="#fdfdfe"/>
+    <path d="M36.5 50.5 L51 46.5 L39 41 Z" fill="#fdfdfe"/>
+    <path d="M41 26 L60 33 L41 40 L45 33 Z" fill="#fdfdfe"/>
+  </g></g>
+</svg>

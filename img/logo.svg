@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Chatoor">
+  <!-- The Chatoor trishul: its crescent reads as a C, its middle prong is a rising trade line -->
+  <defs><clipPath id="chatoor-tile"><rect width="64" height="64" rx="14"/></clipPath></defs>
+  <rect width="64" height="64" rx="14" fill="#6b2fe0"/>
+  <g clip-path="url(#chatoor-tile)"><g transform="rotate(-38 31 33)">
+    <line x1="-2" y1="33" x2="44" y2="33" stroke="#fdfdfe" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M39.4 20 A15.5 15.5 0 1 0 39.4 46" fill="none" stroke="#fdfdfe" stroke-width="5.5"/>
+    <path d="M37 16.6 L50 19.6 L38.6 23.6 Z" fill="#fdfdfe"/>
+    <path d="M37 49.4 L50 46.4 L38.6 42.4 Z" fill="#fdfdfe"/>
+    <path d="M42 27.5 L59 33 L42 38.5 L45.5 33 Z" fill="#fdfdfe"/>
+  </g></g>
+</svg>
